@@ -1,0 +1,17 @@
+cookies:
+    - name: deviceId
+      value: s%3Ae5ab100a-b550-4f0a-bd09-6fb1fc07add7.Jne%2FI4t5tPnT7B%2B2kkaBlQTXTOSX5DAMcJgQdWyl8%2FU
+      expiry: -62135596800
+      sameSite: Default
+    - name: csrf
+      value: s%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2YWwiOiJvN2hWWVZ4VGlKIiwiaWF0IjoxNzY2MjU0MzI1LCJleHAiOjE3NjYyNTQ5MjV9.3Bk9CI3FWs3Oax6EoSMp8YNSneJQP-c3_76So-jS44w.Y5LN1HbV41ewOVbjHgF6YlteM5wc9dJQ6kxazyS22e0
+      expiry: -62135596800
+      sameSite: Default
+    - name: token
+      value: s%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2Vyb2JqIjp7fSwiY3NyZiI6Im83aFZZVnhUaUoiLCJpYXQiOjE3NjYyNTQzMjUsImV4cCI6MTc2NjI1NDkyNX0.p4d5BoCTs3dGhHQcoudnCQ6yJJt8Tv2QE8fwUjxcYKU.t8ZR%2FA3YIB9x0%2BVyx9PT7OTdkm%2FtwFDyKpY4gW3XNNg
+      expiry: -62135596800
+      sameSite: Default
+    - name: reftoken
+      value: s%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2Vyb2JqIjp7fSwiY3NyZiI6Im83aFZZVnhUaUoiLCJpYXQiOjE3NjYyNTQzMjUsImV4cCI6MTc2ODg0NjMyNX0.EclVT3lzCObeac83fno0SGC4HjUJ-kjCkQuD292pEsU.trd9lOoO8Hp%2FYXh60KB8b8yxpulY37JzQswJ6HIrh9Y
+      expiry: -62135596800
+      sameSite: Default
